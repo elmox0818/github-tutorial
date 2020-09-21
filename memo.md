@@ -1,3 +1,9 @@
+## はじめにすること
+
+1. `git branch`で現在のブランチを確認
+2. `git status`で変更がないか確認
+3. `git pull origin master`で最新に
+
 ## GitHub とのやり取り
 
 - git remote
