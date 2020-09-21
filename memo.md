@@ -3,6 +3,10 @@
 1. `git branch`で現在のブランチを確認
 2. `git status`で変更がないか確認
 3. `git pull origin master`で最新に
+4. 履歴を残したくない場合は`git pull --rebase origin master`で最新に
+
+> git config --global pull.rebase true
+> git config branch.master.rebase true
 
 ## GitHub とのやり取り
 
